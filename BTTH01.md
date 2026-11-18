@@ -106,7 +106,7 @@ Ràng buộc kỹ thuật:
 
 ```
 
-## Phần 2: Bnagr phân bổ ngân sách cuối cùng bằng Markdown Table với các cột: Hạng mục, Số tiền, Tỷ lệ %, Ghi chú.
+## Phần 2: Bảng phân bổ ngân sách cuối cùng bằng Markdown Table với các cột: Hạng mục, Số tiền, Tỷ lệ %, Ghi chú.
 
 **Bảng phân bổ ngân sách tối ưu (100% Thu nhập thực nhận: 21.000.000 VNĐ)**
 
